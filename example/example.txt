@@ -1,3 +1,4 @@
+# Description about the example
 The reference fasta file ref.fa contains four chromosomes.
 The alignment bam file is alignment_sorted.bam
 To run, use the command:

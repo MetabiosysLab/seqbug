@@ -1,3 +1,4 @@
+# This script identifies the errors in the reference assembly
 import re
 import sys
 import operator

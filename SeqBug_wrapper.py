@@ -1,3 +1,4 @@
+
 # input1 = genome assembly in fasta format
 # input2 = alignment file in sorted BAM format
 

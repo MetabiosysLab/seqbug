@@ -16,10 +16,11 @@ Requirements:
  
   3. Installation
 
-      git clone https://github.com/MetabiosysLab/seqbug
+      git clone https://github.com/MetabiosysLab/seqbug.git
       cd seqbug
-      git clone https://github.com/genome/bam-readcount
-      cmake bam-readcount/
+      git clone https://github.com/genome/bam-readcount.git
+      cd bam-readcount/
+      cmake 
       make
       cd ..
 
